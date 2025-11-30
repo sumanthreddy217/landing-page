@@ -5,6 +5,11 @@ Designed with clean, minimal, and professional UI components.
 
 --------------------------------------------------------------------
 
+## This Project Live Link
+👉 [Visit this Landing Page](https://landing-page-eta-ten-yau4kaoni0.vercel.app)
+
+--------------------------------------------------------------------
+
 ## 📌 Features
 
 • Hero Section  
@@ -125,4 +130,3 @@ Created as part of a frontend evaluation assignment to demonstrate:
 • Next.js App Router usage  
 • Smart usage of AI tools (Vercel v0)
 
---------------------------------------------------------------------
